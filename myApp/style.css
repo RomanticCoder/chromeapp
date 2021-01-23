@@ -1,0 +1,30 @@
+body {
+  background-size: cover;
+  color: white;
+}
+
+.js_form,
+.greeting {
+  display: none;
+}
+.showing {
+  display: block;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  background-color: white;
+  width: 200px;
+}
+
+li {
+  justify-content: center;
+}
+
+.js-weather {
+  background-color: white;
+  color: black;
+  width: 200px;
+}
